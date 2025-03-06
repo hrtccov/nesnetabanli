@@ -1,1 +1,1 @@
-# nesnetabanli
+# nesne tabanli ödevleri
